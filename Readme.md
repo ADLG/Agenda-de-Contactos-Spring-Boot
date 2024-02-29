@@ -19,8 +19,8 @@ Dependencias:
 * `mysql-connector-j`
 * `spring-boot-starter-test`
 
-<!-- <div>
-	<img src=>
-</div> -->
+<div>
+	<img src="https://raw.githubusercontent.com/ADLG/Agenda-de-Contactos-Spring-Boot/main/Agenda%20de%20contactos%208080.png">
+</div>
 
 *ADLG*
